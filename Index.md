@@ -14,11 +14,11 @@ HTML
     <!-- Header Section -->
     <div>
         <!-- Main Heading: Name -->
-        <h1>Alex Johnson</h1>
+        <h1>Allen Macanige</h1>
         <p>
             <strong>Role:</strong> Aspiring Web Developer <br>
             <strong>Location:</strong> San Francisco, CA <br>
-            <strong>Email:</strong> alex.johnson@example.com
+            <strong>Email:</strong> allenmacanige@gmail.com
         </p>
     </div>
 
@@ -41,10 +41,10 @@ HTML
     <div>
         <h2>Education</h2>
         
-        <h3>Bachelor of Science in Computer Science</h3>
+        <h3>Bachelor of Technology in Computer Science</h3>
         <p>
-            <strong>University:</strong> Tech State University <br>
-            <strong>Graduation:</strong> <i>Expected May 2026</i>
+            <strong>University:</strong> Invertis University <br>
+            <strong>Graduation:</strong> <i>Expected May 2030</i>
         </p>
 
         <h4>Relevant Coursework:</h4>
@@ -98,34 +98,6 @@ HTML
 
 </body>
 </html>
-How Requirements Were Satisfied
-Heading Hierarchy (h1–h6):
-
-h1: Main name at the top
-
-h2: Primary section headers (About Me, Education, Skills, Hobbies)
-
-h3: Subsections (Degree, Frontend Tech, etc.)
-
-h4: Specific lists (Relevant Coursework, Core Competencies)
-
-h5 & h6: Minor interests and note tags
-
-Text Formatting:
-
-<p> for paragraphs
-
-<br> for contact line breaks
-
-<hr> for thematic section dividers
-
-<strong> for key highlights and labels
-
-<em> for emphasized terms
-
-<i> for dates and quick notes
-
-Layout Elements:
 
 <div> containers to group related sections
 
