@@ -1,6 +1,4 @@
 index.html Source Code
-Create (or update) your index.html file with the following complete, properly indented HTML code:
-
 HTML
 <!DOCTYPE html>
 <html lang="en">
