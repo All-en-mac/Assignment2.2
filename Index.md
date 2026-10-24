@@ -130,10 +130,3 @@ Layout Elements:
 <div> containers to group related sections
 
 <span> elements to group inline items (skills, subjects, hobbies)
-
-Submission Checklist
-Save the code into index.html.
-
-Open the file in your browser using Live Server (or by double-clicking the file).
-
-Submit the index.html file and/or take a screenshot of the rendered page as required.
